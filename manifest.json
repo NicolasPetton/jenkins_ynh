@@ -1,6 +1,7 @@
 {
     "name": "Jenkins",
-    "id": "jenkins",
+	"id": "jenkins",
+	"packaging_format": 1,
     "description": {
         "en": "Serveur d'intégration continue extensible",
         "fr": "Extendable continuous integration server"
